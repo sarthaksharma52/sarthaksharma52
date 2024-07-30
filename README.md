@@ -1,7 +1,5 @@
 # Hi there, I'm Sarthak Sharma 👋
 
-![Profile views](https://gpvc.arturio.dev/sarthaksharma52)
-
 ## 🚀 About Me
 
 - 🔭 I’m currently working on [SportIn](https://github.com/sarthaksharma52/SportIn)
