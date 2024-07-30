@@ -1,5 +1,7 @@
 # Hi there, I'm Sarthak Sharma 👋
 
+![Profile views](https://gpvc.arturio.dev/sarthaksharma52)
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on [SportIn](https://github.com/sarthaksharma52/SportIn)
@@ -35,7 +37,7 @@
 
 ## 📈 GitHub Analytics
 
-![Metrics](https://metrics.lecoq.io/sarthaksharma52?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+[![Sarthak's GitHub metrics](https://metrics.lecoq.io/sarthaksharma52?template=classic&isocalendar=1&languages=1&stars=1&followup=1&lines=1&projects=1&activity=1&achievements=1&repositories=1&introduction=1&gists=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=30&languages.categories=programming&languages.force=github&stars.limit=4&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&repositories.pinned=0&repositories.starred=0&repositories.random=0&introduction.title=true&config.timezone=America%2FToronto)](https://metrics.lecoq.io/)
 
 ## 🔗 Connect with me
 
