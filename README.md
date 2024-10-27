@@ -12,7 +12,7 @@ I'm Sarthak sharma,a undergraduate student pursuing Bachelor's in Technology in 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sarthaksharma52&theme=onedark)
 
-##  🛠️Languages & Tools
+##  🛠️ Languages & Tools
 
 ### Frontend
 
