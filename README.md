@@ -42,7 +42,7 @@ I'm Sarthak sharma,a undergraduate student pursuing Bachelor's in Technology in 
 
 ## 📊 My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarthaksharma52&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub  Streak](https://streak-stats.demolab.com?user=sarthaksharma52&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthaksharma52&show_icons=true&theme=radical)
 
