@@ -1,7 +1,7 @@
 # Hi there 👋   
 I'm Sarthak sharma,a undergraduate student pursuing Bachelor's in Technology in Computer Science with specialization in Artificial Intelligence & Machine Learning. 👨‍💻 I am a MERN STACk Developer currently exploring Javascript and refining these learnings by creating Web Development Projects. 💼 Actively seeking Internship Opportunities. 
 
-## 🚀 About Me 
+## 🚀 About Me
 
 - 🔭 I’m currently working on [SportIn](https://github.com/sarthaksharma52/SportIn)
 - 🌱 I’m currently learning MERN Stack
