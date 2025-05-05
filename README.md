@@ -7,7 +7,7 @@ I'm Sarthak sharma,a undergraduate student pursuing Bachelor's in Technology in 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about React, Node.js, Express, MongoDB
-
+   
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sarthaksharma52&theme=onedark)
