@@ -3,7 +3,7 @@ I'm Sarthak sharma,a undergraduate student pursuing Bachelor's in Technology in 
  
 ## 🚀 About Me 
   
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about React, Node.js, Express, MongoDB 
    
