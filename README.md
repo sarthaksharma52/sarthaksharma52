@@ -1,5 +1,5 @@
 # Hi there
-I'm Sarthak sharma,a undergraduate student pursuing Bachelor's in Technology in Computer Science with specialization in Artificial Intelligence & Machine Learning. 👨‍💻 I am a MERN STACk Developer currently exploring Javascript and refining these learnings by creating  Web Development Projects. 💼 Actively seeking Internship Opportunities. 
+I'm Sarthak sharma,a undergraduate student pursuing Bachelor's in Technology in Computer Science with specialization in Artificial Intelligence & Machine Learning. 👨‍💻 I am a MERN STACK Developer currently exploring Javascript and refining these learnings by creating  Web Development Projects. 💼 Actively seeking Internship Opportunities. 
  
 ## 🚀 About Me 
 
